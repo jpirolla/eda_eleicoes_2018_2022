@@ -31,21 +31,6 @@ palette = sns.color_palette("Spectral")
 
 # ## 1. Análise inicial - Conhecendo o dataset
 
-# Antes de partirmos para a análise uni e multivariada, é interessante que façamos uma exploração básica para conhecer os dados e a estrutura do dataset que estamos buscando extrair informações 
-
-# Idade: idade do participante (inteiro)
-# Sexo: Sexo do participante (masculino/feminino).
-# Altura: Altura medida em centímetros (inteiro)
-# Peso: Peso medido em quilogramas (inteiro)
-# Ap_hi: Leitura da pressão arterial sistólica feita no paciente (inteiro)
-# Ap_lo: Leitura da pressão arterial diastólica feita no paciente (inteiro)
-# Colesterol: Nível de colesterol total lido como mg/dl em uma escala de 0 a 5+ unidades (inteiro). Cada unidade denota aumento/diminuição de 20 mg/dL, respectivamente.
-# Gluc : Nível de glicose lido como mmol/l em uma escala de 0 a 16+ unidades (número inteiro). Cada unidade denotando aumento diminui em 1 mmol/L, respectivamente.
-# Fuma: Se a pessoa fuma ou não (binário; 0= Não , 1=Sim). ‐ 
-# Alco ​ : Se a pessoa bebe álcool ou não (binário; 0 =Não ,1 =Sim ). • 
-# Ativo: se pessoa fisicamente ativa ou não ( Binário ;0 =Não,1 = Sim ). . 
-# Cardio : se a pessoa sofre de doenças cardiovasculares ou não (Binário ;0 – não , 1 ‑sim ). 
-
 # #### Analisando o tamanho do dataset
 
 # In[11]:
